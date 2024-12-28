@@ -13,20 +13,27 @@ This course is structured as follows. We first briefly cover quantization for co
 ### **Topics to be covered:**
 1. **Introduction**
 2. **Quantization of constrained systems**
+
    a. Classification of constraints
    b. Dirac method of quantization
-3. **Classical aspects of gauge theories**
-4. **Functional methods**
+   
+4. **Classical aspects of gauge theories**
+5. **Functional methods**
+
    a. Path integrals for quantum mechanics
    b. Path integral quantization of scalar fields, fermions and electrodynamics
-5. **Quantization of Yang-Mills theories**
+   
+7. **Quantization of Yang-Mills theories**
+
    a. Path integrals, Fadeev-Poppov ghosts
    b. BRST quantization.
-6. **Renormalization**
+   
+9. **Renormalization**
+
    a. Systematics of renormalization
    b. Renormalization group
 
-**Evaluation\*:**
+**Evaluation:**
   - **Assignments/Take home examinations:** 50%
   - **Project:** 50% (Report: 10%, End term presentation: 40%)
 
